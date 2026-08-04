@@ -3,7 +3,7 @@
 
 # MiniMax H3 Native Exact-Audio Lock
 
-This package provides two ComfyUI templates used for the local MiniMax H3 music-video workflow.
+This package provides MiniMax H3 Native Exact-Audio Lock ComfyUI node and template used for the local MiniMax H3 music-video workflow.
 
 ## Included
 

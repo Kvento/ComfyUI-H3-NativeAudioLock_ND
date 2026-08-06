@@ -32,5 +32,5 @@ No [unwanted changes: sun, daylight, warm orange/gold grade, text, logo, extra p
 
 Audio timing matters: trim the source song to the exact start and duration of each clip. Use the native-audio lock node immediately after the H3 video-conditioning node. At non-vocal timestamps, explicitly instruct the model that the mouth remains closed.
 
-## Creditts
+## Credits
 - [Shrek3OnVH5](https://github.com/Shrek3OnVH5)
